@@ -1,6 +1,6 @@
 <?php
 	// Get the name from the URL or GET Parameters.
-	$name = isset($_GET["name"]) ? $_GET["name"] : "Praveen Kumar";
+	$name = isset($_GET["name"]) ? $_GET["name"] : "Ritwik Sinha";
 	// Create an image from the PNG that I have got.
 	$image = imagecreatefrompng("empty.png");
 	// Create a text colour.
